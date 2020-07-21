@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>my hello </title>
-</head>
-<body>
-pavan kumar reddy
-</body>
-</html>
